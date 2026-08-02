@@ -1,0 +1,140 @@
+﻿Survey_Phase,Section,Question_ID,Question,Response_Category_or_Statistic,Frequency,Percentage,Mean,Positive_Response_Percentage,Base_N,Notes
+Pre-Survey,Sample Information,PRE-N,Main pre-survey sample,Included responses,200,100.0,,,200,All 200 pre-survey responses were included.
+Post-Survey,Sample Information,POST-N,Main post-survey sample,Included responses,200,100.0,,,200,The first five of 205 post-survey records were completed-dashboard pilot responses and were excluded from the main analysis.
+Pre-Survey,Demographic Profile,D1,Age,Below 18,0,0.0,,,200,
+Pre-Survey,Demographic Profile,D1,Age,18 - 20,63,31.5,,,200,
+Pre-Survey,Demographic Profile,D1,Age,21 - 23,113,56.5,,,200,
+Pre-Survey,Demographic Profile,D1,Age,24 - 25,23,11.5,,,200,
+Pre-Survey,Demographic Profile,D1,Age,Above 25,1,0.5,,,200,
+Pre-Survey,Demographic Profile,D2,Gender,Female,199,99.5,,,200,
+Pre-Survey,Demographic Profile,D2,Gender,Male,0,0.0,,,200,
+Pre-Survey,Demographic Profile,D2,Gender,Prefer not to say,1,0.5,,,200,
+Pre-Survey,Demographic Profile,D3,Education Level,High School / Pre-University / Foundation,50,25.0,,,200,
+Pre-Survey,Demographic Profile,D3,Education Level,Undergraduate,139,69.5,,,200,
+Pre-Survey,Demographic Profile,D3,Education Level,Postgraduate,11,5.5,,,200,
+Pre-Survey,Demographic Profile,D4,Frequency of Cosmetic Use,Daily,37,18.5,,,200,
+Pre-Survey,Demographic Profile,D4,Frequency of Cosmetic Use,2-3 times a week,81,40.5,,,200,
+Pre-Survey,Demographic Profile,D4,Frequency of Cosmetic Use,Weekly,62,31.0,,,200,
+Pre-Survey,Demographic Profile,D4,Frequency of Cosmetic Use,Rarely,20,10.0,,,200,
+Pre-Survey,Baseline Knowledge,Q1,What is the main purpose of using cosmetics?,Improve beauty,150,75.0,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Knowledge,Q1,What is the main purpose of using cosmetics?,Protection,9,4.5,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Knowledge,Q1,What is the main purpose of using cosmetics?,Enjoyment or self-expression,108,54.0,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Knowledge,Q1,What is the main purpose of using cosmetics?,Cleaning / correction of body smells,51,25.5,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Knowledge,Q2,"Are you aware that some cosmetic ingredients can cause skin irritation, allergies, or other health effects?",Yes,96,48.0,,,200,
+Pre-Survey,Baseline Knowledge,Q2,"Are you aware that some cosmetic ingredients can cause skin irritation, allergies, or other health effects?",No,104,52.0,,,200,
+Pre-Survey,Baseline Knowledge,Q3,Have you experienced any health problems after using cosmetic products?,Yes,86,43.0,,,200,
+Pre-Survey,Baseline Knowledge,Q3,Have you experienced any health problems after using cosmetic products?,No,114,57.0,,,200,
+Pre-Survey,Baseline Knowledge,Q4,"If yes, what type of problem did you experience?",Itching,28,14.0,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Knowledge,Q4,"If yes, what type of problem did you experience?",Rashes,27,13.5,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Knowledge,Q4,"If yes, what type of problem did you experience?",Allergy,49,24.5,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Knowledge,Q4,"If yes, what type of problem did you experience?",Scaling or Pigmentation,6,3.0,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Knowledge,Q4,"If yes, what type of problem did you experience?",Others,12,6.0,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Attitudes,Q5,I am concerned about potential health risks from cosmetic ingredients.,Strongly disagree,1,0.5,,,200,
+Pre-Survey,Baseline Attitudes,Q5,I am concerned about potential health risks from cosmetic ingredients.,Disagree,20,10.0,,,200,
+Pre-Survey,Baseline Attitudes,Q5,I am concerned about potential health risks from cosmetic ingredients.,Neutral,49,24.5,,,200,
+Pre-Survey,Baseline Attitudes,Q5,I am concerned about potential health risks from cosmetic ingredients.,Agree,70,35.0,,,200,
+Pre-Survey,Baseline Attitudes,Q5,I am concerned about potential health risks from cosmetic ingredients.,Strongly agree,60,30.0,,,200,
+Pre-Survey,Baseline Attitudes,Q5,I am concerned about potential health risks from cosmetic ingredients.,Mean score,,,3.84,,200,Mean based on a 1-to-5 scale.
+Pre-Survey,Baseline Attitudes,Q6,Daily use of cosmetic products may affect my health.,Strongly disagree,4,2.0,,,200,
+Pre-Survey,Baseline Attitudes,Q6,Daily use of cosmetic products may affect my health.,Disagree,13,6.5,,,200,
+Pre-Survey,Baseline Attitudes,Q6,Daily use of cosmetic products may affect my health.,Neutral,49,24.5,,,200,
+Pre-Survey,Baseline Attitudes,Q6,Daily use of cosmetic products may affect my health.,Agree,80,40.0,,,200,
+Pre-Survey,Baseline Attitudes,Q6,Daily use of cosmetic products may affect my health.,Strongly agree,54,27.0,,,200,
+Pre-Survey,Baseline Attitudes,Q6,Daily use of cosmetic products may affect my health.,Mean score,,,3.83,,200,Mean based on a 1-to-5 scale.
+Pre-Survey,Baseline Attitudes,Q7,Ingredient safety is important when choosing a cosmetic product.,Strongly disagree,0,0.0,,,200,
+Pre-Survey,Baseline Attitudes,Q7,Ingredient safety is important when choosing a cosmetic product.,Disagree,12,6.0,,,200,
+Pre-Survey,Baseline Attitudes,Q7,Ingredient safety is important when choosing a cosmetic product.,Neutral,54,27.0,,,200,
+Pre-Survey,Baseline Attitudes,Q7,Ingredient safety is important when choosing a cosmetic product.,Agree,90,45.0,,,200,
+Pre-Survey,Baseline Attitudes,Q7,Ingredient safety is important when choosing a cosmetic product.,Strongly agree,44,22.0,,,200,
+Pre-Survey,Baseline Attitudes,Q7,Ingredient safety is important when choosing a cosmetic product.,Mean score,,,3.83,,200,Mean based on a 1-to-5 scale.
+Pre-Survey,Baseline Attitudes,Q8,I actively try to choose products with safe ingredients.,Strongly disagree,8,4.0,,,200,
+Pre-Survey,Baseline Attitudes,Q8,I actively try to choose products with safe ingredients.,Disagree,49,24.5,,,200,
+Pre-Survey,Baseline Attitudes,Q8,I actively try to choose products with safe ingredients.,Neutral,91,45.5,,,200,
+Pre-Survey,Baseline Attitudes,Q8,I actively try to choose products with safe ingredients.,Agree,40,20.0,,,200,
+Pre-Survey,Baseline Attitudes,Q8,I actively try to choose products with safe ingredients.,Strongly agree,12,6.0,,,200,
+Pre-Survey,Baseline Attitudes,Q8,I actively try to choose products with safe ingredients.,Mean score,,,3.00,,200,Mean based on a 1-to-5 scale.
+Pre-Survey,Baseline Attitudes,Q9,I trust online reviews or scientific sources about cosmetic safety.,Strongly disagree,9,4.5,,,200,
+Pre-Survey,Baseline Attitudes,Q9,I trust online reviews or scientific sources about cosmetic safety.,Disagree,47,23.5,,,200,
+Pre-Survey,Baseline Attitudes,Q9,I trust online reviews or scientific sources about cosmetic safety.,Neutral,87,43.5,,,200,
+Pre-Survey,Baseline Attitudes,Q9,I trust online reviews or scientific sources about cosmetic safety.,Agree,35,17.5,,,200,
+Pre-Survey,Baseline Attitudes,Q9,I trust online reviews or scientific sources about cosmetic safety.,Strongly agree,22,11.0,,,200,
+Pre-Survey,Baseline Attitudes,Q9,I trust online reviews or scientific sources about cosmetic safety.,Mean score,,,3.07,,200,Mean based on a 1-to-5 scale.
+Pre-Survey,Baseline Practices,Q10,Do you read ingredient labels before purchasing a cosmetic product?,Always,27,13.5,,,200,
+Pre-Survey,Baseline Practices,Q10,Do you read ingredient labels before purchasing a cosmetic product?,Sometimes,101,50.5,,,200,
+Pre-Survey,Baseline Practices,Q10,Do you read ingredient labels before purchasing a cosmetic product?,Never,72,36.0,,,200,
+Pre-Survey,Baseline Practices,Q11,Do you perform patch tests or sensitivity checks before using new cosmetic products?,Always,13,6.5,,,200,
+Pre-Survey,Baseline Practices,Q11,Do you perform patch tests or sensitivity checks before using new cosmetic products?,Sometimes,46,23.0,,,200,
+Pre-Survey,Baseline Practices,Q11,Do you perform patch tests or sensitivity checks before using new cosmetic products?,Never,141,70.5,,,200,
+Pre-Survey,Baseline Practices,Q12,"How often do you check online reviews, blogs, or scientific sources about ingredient safety?",Always,23,11.5,,,200,
+Pre-Survey,Baseline Practices,Q12,"How often do you check online reviews, blogs, or scientific sources about ingredient safety?",Sometimes,84,42.0,,,200,
+Pre-Survey,Baseline Practices,Q12,"How often do you check online reviews, blogs, or scientific sources about ingredient safety?",Never,93,46.5,,,200,
+Pre-Survey,Baseline Practices,Q13,What type of cosmetic products do you usually use?,Facial products,119,59.5,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Practices,Q13,What type of cosmetic products do you usually use?,Hair products,53,26.5,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Practices,Q13,What type of cosmetic products do you usually use?,Nail products,31,15.5,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Practices,Q13,What type of cosmetic products do you usually use?,Perfume or deodorants,110,55.0,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Practices,Q13,What type of cosmetic products do you usually use?,Skin-lightening products,45,22.5,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Practices,Q14,"When choosing a cosmetic product, which factor influences your decision the most?",Ingredient safety,34,17.0,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Practices,Q14,"When choosing a cosmetic product, which factor influences your decision the most?",Price,140,70.0,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Practices,Q14,"When choosing a cosmetic product, which factor influences your decision the most?",Packaging or appearance,50,25.0,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Practices,Q14,"When choosing a cosmetic product, which factor influences your decision the most?",Advertisement or social media,82,41.0,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Pre-Survey,Baseline Practices,Q14,"When choosing a cosmetic product, which factor influences your decision the most?",Recommendation from friends / family,62,31.0,,,200,Multiple responses were allowed; percentages are based on all 200 respondents and may total more than 100%.
+Post-Survey,Post-Intervention Knowledge,Q1,"After viewing the dashboard, how confident are you in identifying risky cosmetic ingredients?",Much less confident,17,8.5,,,200,
+Post-Survey,Post-Intervention Knowledge,Q1,"After viewing the dashboard, how confident are you in identifying risky cosmetic ingredients?",Less confident,26,13.0,,,200,
+Post-Survey,Post-Intervention Knowledge,Q1,"After viewing the dashboard, how confident are you in identifying risky cosmetic ingredients?",Neutral,38,19.0,,,200,
+Post-Survey,Post-Intervention Knowledge,Q1,"After viewing the dashboard, how confident are you in identifying risky cosmetic ingredients?",More confident,106,53.0,,,200,
+Post-Survey,Post-Intervention Knowledge,Q1,"After viewing the dashboard, how confident are you in identifying risky cosmetic ingredients?",Much more confident,13,6.5,,,200,
+Post-Survey,Post-Intervention Knowledge,Q1,"After viewing the dashboard, how confident are you in identifying risky cosmetic ingredients?",Mean and positive-response summary,,,3.36,59.5,200,Positive response combines the two most favourable response categories.
+Post-Survey,Post-Intervention Knowledge,Q2,The dashboard helped me understand ingredient risk levels more clearly.,Strongly disagree,18,9.0,,,200,
+Post-Survey,Post-Intervention Knowledge,Q2,The dashboard helped me understand ingredient risk levels more clearly.,Disagree,27,13.5,,,200,
+Post-Survey,Post-Intervention Knowledge,Q2,The dashboard helped me understand ingredient risk levels more clearly.,Neutral,33,16.5,,,200,
+Post-Survey,Post-Intervention Knowledge,Q2,The dashboard helped me understand ingredient risk levels more clearly.,Agree,106,53.0,,,200,
+Post-Survey,Post-Intervention Knowledge,Q2,The dashboard helped me understand ingredient risk levels more clearly.,Strongly agree,16,8.0,,,200,
+Post-Survey,Post-Intervention Knowledge,Q2,The dashboard helped me understand ingredient risk levels more clearly.,Mean and positive-response summary,,,3.38,61.0,200,Positive response combines the two most favourable response categories.
+Post-Survey,Post-Intervention Knowledge,Q3,I now feel more aware of which ingredients may cause health issues.,Strongly disagree,15,7.5,,,200,
+Post-Survey,Post-Intervention Knowledge,Q3,I now feel more aware of which ingredients may cause health issues.,Disagree,21,10.5,,,200,
+Post-Survey,Post-Intervention Knowledge,Q3,I now feel more aware of which ingredients may cause health issues.,Neutral,45,22.5,,,200,
+Post-Survey,Post-Intervention Knowledge,Q3,I now feel more aware of which ingredients may cause health issues.,Agree,103,51.5,,,200,
+Post-Survey,Post-Intervention Knowledge,Q3,I now feel more aware of which ingredients may cause health issues.,Strongly agree,16,8.0,,,200,
+Post-Survey,Post-Intervention Knowledge,Q3,I now feel more aware of which ingredients may cause health issues.,Mean and positive-response summary,,,3.42,59.5,200,Positive response combines the two most favourable response categories.
+Post-Survey,Post-Intervention Knowledge,Q4,"The dashboard made it easier to differentiate low, medium and high-risk ingredients.",Strongly disagree,12,6.0,,,200,
+Post-Survey,Post-Intervention Knowledge,Q4,"The dashboard made it easier to differentiate low, medium and high-risk ingredients.",Disagree,38,19.0,,,200,
+Post-Survey,Post-Intervention Knowledge,Q4,"The dashboard made it easier to differentiate low, medium and high-risk ingredients.",Neutral,34,17.0,,,200,
+Post-Survey,Post-Intervention Knowledge,Q4,"The dashboard made it easier to differentiate low, medium and high-risk ingredients.",Agree,102,51.0,,,200,
+Post-Survey,Post-Intervention Knowledge,Q4,"The dashboard made it easier to differentiate low, medium and high-risk ingredients.",Strongly agree,14,7.0,,,200,
+Post-Survey,Post-Intervention Knowledge,Q4,"The dashboard made it easier to differentiate low, medium and high-risk ingredients.",Mean and positive-response summary,,,3.34,58.0,200,Positive response combines the two most favourable response categories.
+Post-Survey,Post-Intervention Attitudes,Q5,I am more concerned about harmful cosmetic ingredients after viewing the dashboard.,Strongly disagree,4,2.0,,,200,
+Post-Survey,Post-Intervention Attitudes,Q5,I am more concerned about harmful cosmetic ingredients after viewing the dashboard.,Disagree,14,7.0,,,200,
+Post-Survey,Post-Intervention Attitudes,Q5,I am more concerned about harmful cosmetic ingredients after viewing the dashboard.,Neutral,13,6.5,,,200,
+Post-Survey,Post-Intervention Attitudes,Q5,I am more concerned about harmful cosmetic ingredients after viewing the dashboard.,Agree,89,44.5,,,200,
+Post-Survey,Post-Intervention Attitudes,Q5,I am more concerned about harmful cosmetic ingredients after viewing the dashboard.,Strongly agree,80,40.0,,,200,
+Post-Survey,Post-Intervention Attitudes,Q5,I am more concerned about harmful cosmetic ingredients after viewing the dashboard.,Mean and positive-response summary,,,4.14,84.5,200,Positive response combines the two most favourable response categories.
+Post-Survey,Post-Intervention Attitudes,Q6,I believe ingredient safety should influence purchasing decisions more strongly.,Strongly disagree,5,2.5,,,200,
+Post-Survey,Post-Intervention Attitudes,Q6,I believe ingredient safety should influence purchasing decisions more strongly.,Disagree,19,9.5,,,200,
+Post-Survey,Post-Intervention Attitudes,Q6,I believe ingredient safety should influence purchasing decisions more strongly.,Neutral,13,6.5,,,200,
+Post-Survey,Post-Intervention Attitudes,Q6,I believe ingredient safety should influence purchasing decisions more strongly.,Agree,81,40.5,,,200,
+Post-Survey,Post-Intervention Attitudes,Q6,I believe ingredient safety should influence purchasing decisions more strongly.,Strongly agree,82,41.0,,,200,
+Post-Survey,Post-Intervention Attitudes,Q6,I believe ingredient safety should influence purchasing decisions more strongly.,Mean and positive-response summary,,,4.08,81.5,200,Positive response combines the two most favourable response categories.
+Post-Survey,Post-Intervention Intended Practices,Q7,I am more likely to read ingredient labels before purchasing cosmetics from now on.,Always,85,42.5,,,200,
+Post-Survey,Post-Intervention Intended Practices,Q7,I am more likely to read ingredient labels before purchasing cosmetics from now on.,Sometimes,100,50.0,,,200,
+Post-Survey,Post-Intervention Intended Practices,Q7,I am more likely to read ingredient labels before purchasing cosmetics from now on.,Never,15,7.5,,,200,
+Post-Survey,Post-Intervention Intended Practices,Q8,I will check ingredient safety information more frequently.,Always,85,42.5,,,200,
+Post-Survey,Post-Intervention Intended Practices,Q8,I will check ingredient safety information more frequently.,Sometimes,100,50.0,,,200,
+Post-Survey,Post-Intervention Intended Practices,Q8,I will check ingredient safety information more frequently.,Never,15,7.5,,,200,
+Post-Survey,Post-Intervention Intended Practices,Q9,I intend to avoid products containing high-risk ingredients.,Always,86,43.0,,,200,These responses represent intended future practices rather than observed long-term behaviour.
+Post-Survey,Post-Intervention Intended Practices,Q9,I intend to avoid products containing high-risk ingredients.,Sometimes,97,48.5,,,200,These responses represent intended future practices rather than observed long-term behaviour.
+Post-Survey,Post-Intervention Intended Practices,Q9,I intend to avoid products containing high-risk ingredients.,Never,17,8.5,,,200,These responses represent intended future practices rather than observed long-term behaviour.
+Post-Survey,Dashboard Usability Feedback,Q10,Was the dashboard easy to understand?,Very difficult,11,5.5,,,200,
+Post-Survey,Dashboard Usability Feedback,Q10,Was the dashboard easy to understand?,Difficult,16,8.0,,,200,
+Post-Survey,Dashboard Usability Feedback,Q10,Was the dashboard easy to understand?,Neutral,12,6.0,,,200,
+Post-Survey,Dashboard Usability Feedback,Q10,Was the dashboard easy to understand?,Easy,82,41.0,,,200,
+Post-Survey,Dashboard Usability Feedback,Q10,Was the dashboard easy to understand?,Very easy,79,39.5,,,200,
+Post-Survey,Dashboard Usability Feedback,Q10,Was the dashboard easy to understand?,Mean and positive-response summary,,,4.01,80.5,200,Positive response combines the two most favourable response categories.
+Post-Survey,Dashboard Usability Feedback,Q11,Was the dashboard visually clear and informative?,Very unclear,9,4.5,,,200,
+Post-Survey,Dashboard Usability Feedback,Q11,Was the dashboard visually clear and informative?,Unclear,13,6.5,,,200,
+Post-Survey,Dashboard Usability Feedback,Q11,Was the dashboard visually clear and informative?,Neutral,11,5.5,,,200,
+Post-Survey,Dashboard Usability Feedback,Q11,Was the dashboard visually clear and informative?,Clear and informative,88,44.0,,,200,
+Post-Survey,Dashboard Usability Feedback,Q11,Was the dashboard visually clear and informative?,Very clear and informative,79,39.5,,,200,
+Post-Survey,Dashboard Usability Feedback,Q11,Was the dashboard visually clear and informative?,Mean and positive-response summary,,,4.08,83.5,200,Positive response combines the two most favourable response categories.
+Post-Survey,Dashboard Usability Feedback,Q12,Would you recommend this dashboard to others?,Yes,159,79.5,,,200,
+Post-Survey,Dashboard Usability Feedback,Q12,Would you recommend this dashboard to others?,No,24,12.0,,,200,
+Post-Survey,Dashboard Usability Feedback,Q12,Would you recommend this dashboard to others?,Maybe,17,8.5,,,200,

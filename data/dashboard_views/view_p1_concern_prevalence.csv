@@ -1,0 +1,15 @@
+concern_type,concern_type_label,products_affected,total_products,percentage
+irritant,Skin Irritation Risk,6169,7544,81.77
+annex_iii_restricted,Restricted Ingredient,4805,7544,63.69
+fragrance_allergen,Fragrance Allergen,4450,7544,58.99
+sensitizer,Allergy Risk,3733,7544,49.48
+drying,Drying Effect,2228,7544,29.53
+endocrine_disruptor,Hormone Disruption Risk,1412,7544,18.72
+nitrosamine_concern,Chemical Contamination Risk,635,7544,8.42
+manufacturing_impurity,Production Contamination Risk,488,7544,6.47
+reproductive_toxin,Reproductive Health Concern,485,7544,6.43
+eu_banned,EU-Banned Ingredient,412,7544,5.46
+photosensitizer,Sun Sensitivity Risk,388,7544,5.14
+carcinogeconcern,Carcinogeconcern,167,7544,2.21
+environmental_concern,Environmental Concern,155,7544,2.05
+microplastic,Microplastic,52,7544,0.69

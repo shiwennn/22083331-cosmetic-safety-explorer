@@ -1,0 +1,124 @@
+canonical_name,concern_tag,concern_tag_label,risk_level,risk_level_label,sub_weight,products_containing,health_concern
+octinoxate,annex_iii_restricted,Restricted Ingredient,Medium,Moderate Risk,2.0,521,UV filter; permitted with concentration limits; SCCS reviewed endocrine-related concern
+salicylic acid,annex_iii_restricted,Restricted Ingredient,Medium,Moderate Risk,2.0,370,Restricted active ingredient; may irritate skin at higher concentrations
+triethanolamine,annex_iii_restricted,Restricted Ingredient,Medium,Moderate Risk,2.0,167,pH adjuster; restricted ≤2.5% due to risk of forming cancer-causing nitrosamines
+methylparaben,annex_iii_restricted,Restricted Ingredient,Medium,Moderate Risk,2.0,149,"Preservative;
+permitted with concentration limits; SCCS
+reviewed endocrine-related concerns"
+benzophenone-4,annex_iii_restricted,Restricted Ingredient,Medium,Moderate Risk,2.0,123,UV filter; permitted with concentration limits; SCCS reviewed endocrine-related concern
+retinyl palmitate,annex_iii_restricted,Restricted Ingredient,Medium,Moderate Risk,2.0,123,Restricted to 0.05 % RE body lotion / 0.3 % other
+retinol,annex_iii_restricted,Restricted Ingredient,Medium,Moderate Risk,2.0,100,Vitamin A; SCCS permitted with concentration limits; pregnancy precaution
+phenoxyethanol,annex_iii_restricted,Restricted Ingredient,Low-Medium,Low-Moderate Risk,1.5,3327,"Preservative;
+permitted with concentration limits; mild irritation/sensitization"
+ci 42090 (blue 1),annex_iii_restricted,Restricted Ingredient,Low-Medium,Low-Moderate Risk,1.5,649,Approved colorant; concentration restricted 
+butyl methoxydibenzoylmethane,annex_iii_restricted,Restricted Ingredient,Low-Medium,Low-Moderate Risk,1.5,641,UV filter; permitted with concentration limits
+chlorphenesin,annex_iii_restricted,Restricted Ingredient,Low-Medium,Low-Moderate Risk,1.5,637,Preservative; permitted with concentration on limits
+ethylhexyl salicylate,annex_iii_restricted,Restricted Ingredient,Low-Medium,Low-Moderate Risk,1.5,441,UV filter; permitted with concentration limits
+ci 60730 (ext violet 2),annex_iii_restricted,Restricted Ingredient,Low-Medium,Low-Moderate Risk,1.5,327,Synthetic colorant; restricted from lips and eye area
+ci 17200 (red 33),annex_iii_restricted,Restricted Ingredient,Low-Medium,Low-Moderate Risk,1.5,252,Approved colorant; concentration restricted 
+potassium hydroxide,annex_iii_restricted,Restricted Ingredient,Low-Medium,Low-Moderate Risk,1.5,233,pH adjuster; restricted due to strong alkalinity; concentration limits apply
+ci 45410 (red 28),annex_iii_restricted,Restricted Ingredient,Low-Medium,Low-Moderate Risk,1.5,226,Approved colorant; concentration restricted 
+triethanolamine,carcinogen_concern,Cancer Concern,Medium,Moderate Risk,2.0,167,pH adjuster; restricted ≤2.5% due to risk of forming cancer-causing nitrosamines
+alcohol denat,drying,Drying Effect,Low-Medium,Low-Moderate Risk,1.5,1209,Drying with prolonged use
+alcohol,drying,Drying Effect,Low-Medium,Low-Moderate Risk,1.5,860,Ethanol solvent; barrier-disruption potential
+isopropyl alcohol,drying,Drying Effect,Low-Medium,Low-Moderate Risk,1.5,334,Solvent; may cause mild skin drying and irritation
+bht,endocrine_disruptor,Hormone Disruption Risk,Medium,Moderate Risk,2.0,1015,Antioxidant reviewed for EDC; safe at ≤0.8 %
+octinoxate,endocrine_disruptor,Hormone Disruption Risk,Medium,Moderate Risk,2.0,521,UV filter; permitted with concentration limits; SCCS reviewed endocrine-related concern
+methylparaben,endocrine_disruptor,Hormone Disruption Risk,Medium,Moderate Risk,2.0,149,"Preservative;
+permitted with concentration limits; SCCS
+reviewed endocrine-related concerns"
+benzophenone-4,endocrine_disruptor,Hormone Disruption Risk,Medium,Moderate Risk,2.0,123,UV filter; permitted with concentration limits; SCCS reviewed endocrine-related concern
+propylparaben,endocrine_disruptor,Hormone Disruption Risk,Medium,Moderate Risk,2.0,90,"Potential endocrine disruptor,may interfere with hormone balance"
+cyclohexasiloxane,environmental_concern,Environmental Concern,Low-Medium,Low-Moderate Risk,1.5,103,Volatile silicone (D5); EU environmental review for PBT properties; safe for topical use
+ptfe,environmental_concern,Environmental Concern,Low-Medium,Low-Moderate Risk,1.5,52,Microplastic polymer (Teflon); targeted for phase-outs in the EU
+butylphenyl methylpropional,eu_banned,EU-Banned Ingredient,High,High Risk,3.0,387,Reproductive toxin; BANNED in EU since 1 March 2022
+hydroxyisohexyl 3-cyclohexene carboxaldehyde,eu_banned,EU-Banned Ingredient,High,High Risk,3.0,88,Extreme skin sensitizer; BANNED in EU since August 2021
+parfum (fragrance),fragrance_allergen,Fragrance Allergen,Medium,Moderate Risk,2.0,3566,Undisclosed allergen mixture; declaration required
+geraniol,fragrance_allergen,Fragrance Allergen,Medium,Moderate Risk,2.0,1527,Recognized fragrance allergen; may cause skin reactions
+citral,fragrance_allergen,Fragrance Allergen,Medium,Moderate Risk,2.0,1360,Recognized fragrance allergen; may cause skin reactions
+benzyl alcohol,fragrance_allergen,Fragrance Allergen,Medium,Moderate Risk,2.0,1265,Recognized fragrance allergen; may cause skin reactions
+benzyl salicylate,fragrance_allergen,Fragrance Allergen,Medium,Moderate Risk,2.0,1000,Recognized fragrance allergen; may cause skin reactions
+coumarin,fragrance_allergen,Fragrance Allergen,Medium,Moderate Risk,2.0,858,Recognized fragrance allergen; may cause skin reactions
+hydroxycitronellal,fragrance_allergen,Fragrance Allergen,Medium,Moderate Risk,2.0,833,Recognized fragrance allergen; may cause skin reactions
+eugenol,fragrance_allergen,Fragrance Allergen,Medium,Moderate Risk,2.0,539,Recognized fragrance allergen; may cause skin reactions
+farnesol,fragrance_allergen,Fragrance Allergen,Medium,Moderate Risk,2.0,433,Fragrance allergen; may cause skin reactions
+isoeugenol,fragrance_allergen,Fragrance Allergen,Medium,Moderate Risk,2.0,349,Recognized fragrance allergen; may cause skin reactions
+cinnamyl alcohol,fragrance_allergen,Fragrance Allergen,Medium,Moderate Risk,2.0,247,Recognized fragrance allergen; may cause skin reactions
+cinnamal,fragrance_allergen,Fragrance Allergen,Medium,Moderate Risk,2.0,173,Recognized fragrance allergen; may cause skin reactions
+amyl cinnamal,fragrance_allergen,Fragrance Allergen,Medium,Moderate Risk,2.0,135,Recognized fragrance allergen; may cause skin reactions
+pelargonium graveolens flower oil,fragrance_allergen,Fragrance Allergen,Medium ,,2.0,102,Geranium essential oil; fragrance allergens; may cause skin reactions
+linalool,fragrance_allergen,Fragrance Allergen,Low-Medium,Low-Moderate Risk,1.5,2551,Fragrance allergen; may cause skin reactions
+limonene,fragrance_allergen,Fragrance Allergen,Low-Medium,Low-Moderate Risk,1.5,2518,Fragrance allergen; may cause skin reactions
+citronellol,fragrance_allergen,Fragrance Allergen,Low-Medium,Low-Moderate Risk,1.5,1615,Fragrance allergen; may cause skin reactions
+benzyl benzoate,fragrance_allergen,Fragrance Allergen,Low-Medium,Low-Moderate Risk,1.5,874,Fragrance allergen; may cause skin reactions
+hexyl cinnamal,fragrance_allergen,Fragrance Allergen,Low-Medium,Low-Moderate Risk,1.5,861,Fragrance allergen; may cause skin reactions
+alpha-isomethyl ionone,fragrance_allergen,Fragrance Allergen,Low-Medium,Low-Moderate Risk,1.5,765,Recognized fragrance allergen; may cause skin reactions
+phenethyl alcohol,fragrance_allergen,Fragrance Allergen,Low-Medium,Low-Moderate Risk,1.5,170,Recognized fragrance allergen; may cause skin reactions
+benzyl cinnamate,fragrance_allergen,Fragrance Allergen,Low-Medium,Low-Moderate Risk,1.5,115,Fragrance allergen; may cause skin reactions
+vanillin,fragrance_allergen,Fragrance Allergen,Low-Medium,Low-Moderate Risk,1.5,71,Recognized fragrance allergen; may cause skin reactions
+geraniol,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,1527,Recognized fragrance allergen; may cause skin reactions
+citral,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,1360,Recognized fragrance allergen; may cause skin reactions
+benzyl alcohol,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,1265,Recognized fragrance allergen; may cause skin reactions
+benzyl salicylate,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,1000,Recognized fragrance allergen; may cause skin reactions
+coumarin,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,858,Recognized fragrance allergen; may cause skin reactions
+hydroxycitronellal,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,833,Recognized fragrance allergen; may cause skin reactions
+eugenol,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,539,Recognized fragrance allergen; may cause skin reactions
+farnesol,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,433,Fragrance allergen; may cause skin reactions
+salicylic acid,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,370,Restricted active ingredient; may irritate skin at higher concentrations
+cetrimonium chloride,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,355,Conditioning antistatic quaternary ammonium compound; irritation potential
+isoeugenol,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,349,Recognized fragrance allergen; may cause skin reactions
+behentrimonium chloride,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,327,Conditioning antistatic quaternary ammonium compound; irritation potential
+aminomethyl propanol,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,262,pH adjuster; formulation-related nitrosamine concern and possible irritation
+cinnamyl alcohol,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,247,Recognized fragrance allergen; may cause skin reactions
+tromethamine,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,215,pH adjuster; formulation-related nitrosamine concern and possible irritation
+cinnamal,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,173,Recognized fragrance allergen; may cause skin reactions
+citrus limon (lemon) fruit extract,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,164,Lemon extract; contains furocoumarins; allowed only at natural levels; may cause skin burns with sun exposure
+amyl cinnamal,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,135,Recognized fragrance allergen; may cause skin reactions
+citrus limon (lemon) peel oil,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,114,Lemon peel essential oil; may cause skin burns with sun exposure
+pelargonium graveolens flower oil,irritant,Skin Irritation Risk,Medium ,,2.0,102,Geranium essential oil; fragrance allergens; may cause skin reactions
+menthol,irritant,Skin Irritation Risk,Medium,Moderate Risk,2.0,102,Cooling agents; may sensitize/ irritate sensitive skin or eyes
+phenoxyethanol,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,3327,"Preservative;
+permitted with concentration limits; mild irritation/sensitization"
+linalool,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,2551,Fragrance allergen; may cause skin reactions
+limonene,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,2518,Fragrance allergen; may cause skin reactions
+citronellol,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,1615,Fragrance allergen; may cause skin reactions
+benzyl benzoate,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,874,Fragrance allergen; may cause skin reactions
+hexyl cinnamal,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,861,Fragrance allergen; may cause skin reactions
+alpha-isomethyl ionone,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,765,Recognized fragrance allergen; may cause skin reactions
+propylene glycol,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,753,Solvent / humectant; may cause minor irritation
+lactic acid,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,509,Exfoliant and moisturizer; may irritate skin
+isopropyl alcohol,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,334,Solvent; may cause mild skin drying and irritation
+glycolic acid,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,253,Chemical peels and anti-aging skin products; can irritate skin
+phenethyl alcohol,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,170,Recognized fragrance allergen; may cause skin reactions
+lavandula angustifolia (lavender) oil,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,152,Lavender oil; contains linalool which may cause skin allergy
+citrus aurantium dulcis (orange) peel oil,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,125,Citrus oil; may cause skin sensitivity to sunlight; contains limonene
+mentha piperita (peppermint) oil,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,122,Peppermint oil; menthol can sensitize / irritate skin
+benzyl cinnamate,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,115,Fragrance allergen; may cause skin reactions
+sodium c14-16 olefin sulfonate,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,110,Anionic surfactant; potential mild irritant at higher concentrations
+citrus aurantium bergamia (bergamot) fruit oil,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,105,Bergamot oil; potentially phototoxic (bergapten); may cause skin sensitization
+vanillin,irritant,Skin Irritation Risk,Low-Medium,Low-Moderate Risk,1.5,71,Recognized fragrance allergen; may cause skin reactions
+ethylhexylglycerin,irritant,Skin Irritation Risk,Low,Low Risk,1.0,1925,Skin conditioning; low irritation
+pentylene glycol,irritant,Skin Irritation Risk,Low,Low Risk,1.0,940,Humectant/solvent; low irritation
+cocamidopropyl betaine,manufacturing_impurity,Production Contamination Risk,Medium,Moderate Risk,2.0,305,Cleanser; ACDS 2004 Allergen of the Year; manufacturing impurities may cause allergic contact dermatitis
+polyquaternium-7,manufacturing_impurity,Production Contamination Risk,Medium,Moderate Risk,2.0,219,Conditioning polymer; residual impurity concern and generally low direct topical risk
+sodium laureth sulfate,manufacturing_impurity,Production Contamination Risk,Low-Medium,Low-Moderate Risk,1.5,106,"Mild anionic surfactant; potential 1,4-dioxane manufacturing impurity"
+ptfe,microplastic,Microplastic,Low-Medium,Low-Moderate Risk,1.5,52,Microplastic polymer (Teflon); targeted for phase-outs in the EU
+aminomethyl propanol,nitrosamine_concern,Chemical Contamination Risk,Medium,Moderate Risk,2.0,262,pH adjuster; formulation-related nitrosamine concern and possible irritation
+tromethamine,nitrosamine_concern,Chemical Contamination Risk,Medium,Moderate Risk,2.0,215,pH adjuster; formulation-related nitrosamine concern and possible irritation
+triethanolamine,nitrosamine_concern,Chemical Contamination Risk,Medium,Moderate Risk,2.0,167,pH adjuster; restricted ≤2.5% due to risk of forming cancer-causing nitrosamines
+citrus limon (lemon) fruit extract,photosensitizer,Sun Sensitivity Risk,Medium,Moderate Risk,2.0,164,Lemon extract; contains furocoumarins; allowed only at natural levels; may cause skin burns with sun exposure
+citrus limon (lemon) peel oil,photosensitizer,Sun Sensitivity Risk,Medium,Moderate Risk,2.0,114,Lemon peel essential oil; may cause skin burns with sun exposure
+citrus aurantium dulcis (orange) peel oil,photosensitizer,Sun Sensitivity Risk,Low-Medium,Low-Moderate Risk,1.5,125,Citrus oil; may cause skin sensitivity to sunlight; contains limonene
+citrus aurantium bergamia (bergamot) fruit oil,photosensitizer,Sun Sensitivity Risk,Low-Medium,Low-Moderate Risk,1.5,105,Bergamot oil; potentially phototoxic (bergapten); may cause skin sensitization
+butylphenyl methylpropional,reproductive_toxin,Reproductive Health Concern,High,High Risk,3.0,387,Reproductive toxin; BANNED in EU since 1 March 2022
+retinol,reproductive_toxin,Reproductive Health Concern,Medium,Moderate Risk,2.0,100,Vitamin A; SCCS permitted with concentration limits; pregnancy precaution
+hydroxyisohexyl 3-cyclohexene carboxaldehyde,sensitizer,Allergy Risk,High,High Risk,3.0,88,Extreme skin sensitizer; BANNED in EU since August 2021
+cocamidopropyl betaine,sensitizer,Allergy Risk,Medium,Moderate Risk,2.0,305,Cleanser; ACDS 2004 Allergen of the Year; manufacturing impurities may cause allergic contact dermatitis
+menthol,sensitizer,Allergy Risk,Medium,Moderate Risk,2.0,102,Cooling agents; may sensitize/ irritate sensitive skin or eyes
+phenoxyethanol,sensitizer,Allergy Risk,Low-Medium,Low-Moderate Risk,1.5,3327,"Preservative;
+permitted with concentration limits; mild irritation/sensitization"
+sodium metabisulfite,sensitizer,Allergy Risk,Low-Medium,Low-Moderate Risk,1.5,200,Antioxidant preservative; may cause reactions in sulfite-sensitive individuals
+lavandula angustifolia (lavender) oil,sensitizer,Allergy Risk,Low-Medium,Low-Moderate Risk,1.5,152,Lavender oil; contains linalool which may cause skin allergy
+mentha piperita (peppermint) oil,sensitizer,Allergy Risk,Low-Medium,Low-Moderate Risk,1.5,122,Peppermint oil; menthol can sensitize / irritate skin
+sorbitan sesquioleate,sensitizer,Allergy Risk,Low-Medium,Low-Moderate Risk,1.5,113,Emulsifier; documented potential for contact allergy
+citrus aurantium bergamia (bergamot) fruit oil,sensitizer,Allergy Risk,Low-Medium,Low-Moderate Risk,1.5,105,Bergamot oil; potentially phototoxic (bergapten); may cause skin sensitization

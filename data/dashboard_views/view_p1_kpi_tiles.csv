@@ -1,0 +1,5 @@
+metric,count,percentage,caption
+Total Products Analyzed,7544,,Sephora products with available ingredient data (March 2023)
+Products with Any Concern,6785,89.9,"6,785 of 7,544 products"
+Products with EU-Banned Ingredient,412,5.5,412 products contain ingredients banned in EU
+Products with Fragrance Allergen,4450,59.0,"4,450 products contain documented allergens"

@@ -1,0 +1,13 @@
+Check,Value
+Products reviewed,7544
+Upstream ingredient mentions,261559
+Reconstructed ingredient mentions,261561
+Reconstruction difference,+2
+Products with count differences,1
+Count-check status,Known two-entry reconstruction difference
+Total unique ingredients,13899
+Low ingredient count products,111
+Potential parsing artifacts,168
+Artifact rate,1.2%
+Non-ingredient phrase candidates,100
+Very long ingredients >80 chars,149
