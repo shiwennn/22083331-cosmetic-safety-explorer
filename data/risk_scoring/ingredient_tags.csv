@@ -1,0 +1,404 @@
+rank,canonical_name,total_mentions,risk_level,sub_weight,health_concern,function_tag,concern_tag_list,n_concern_tags
+112,butylphenyl methylpropional,408,High,3.0,Reproductive toxin; BANNED in EU since 1 March 2022,other,eu_banned; reproductive_toxin,2
+396,hydroxyisohexyl 3-cyclohexene carboxaldehyde,89,High,3.0,Extreme skin sensitizer; BANNED in EU since August 2021,other,eu_banned; sensitizer,2
+5,parfum (fragrance),4168,Medium,2.0,Undisclosed allergen mixture; declaration required,other,fragrance_allergen,1
+26,geraniol,1739,Medium,2.0,Recognized fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+28,citral,1530,Medium,2.0,Recognized fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+30,benzyl alcohol,1438,Medium,2.0,Recognized fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+38,benzyl salicylate,1112,Medium,2.0,Recognized fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+39,bht,1107,Medium,2.0,Antioxidant reviewed for EDC; safe at ≤0.8 %,antioxidant,endocrine_disruptor,1
+49,coumarin,946,Medium,2.0,Recognized fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+54,hydroxycitronellal,918,Medium,2.0,Recognized fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+76,eugenol,605,Medium,2.0,Recognized fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+82,octinoxate,563,Medium,2.0,UV filter; permitted with concentration limits; SCCS reviewed endocrine-related concern,uv_filter,annex_iii_restricted; endocrine_disruptor,2
+96,farnesol,482,Medium,2.0,Fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+120,salicylic acid,383,Medium,2.0,Restricted active ingredient; may irritate skin at higher concentrations,other,annex_iii_restricted; irritant,2
+122,isoeugenol,378,Medium,2.0,Recognized fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+124,cetrimonium chloride,377,Medium,2.0,Conditioning antistatic quaternary ammonium compound; irritation potential,conditioner,irritant,1
+132,behentrimonium chloride,343,Medium,2.0,Conditioning antistatic quaternary ammonium compound; irritation potential,conditioner,irritant,1
+149,cocamidopropyl betaine,306,Medium,2.0,Cleanser; ACDS 2004 Allergen of the Year; manufacturing impurities may cause allergic contact dermatitis,surfactant,sensitizer; manufacturing_impurity,2
+160,aminomethyl propanol,269,Medium,2.0,pH adjuster; formulation-related nitrosamine concern and possible irritation,ph_adjuster,nitrosamine_concern; irritant,2
+164,cinnamyl alcohol,258,Medium,2.0,Recognized fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+180,tromethamine,228,Medium,2.0,pH adjuster; formulation-related nitrosamine concern and possible irritation,ph_adjuster,nitrosamine_concern; irritant,2
+184,polyquaternium-7,221,Medium,2.0,Conditioning polymer; residual impurity concern and generally low direct topical risk,conditioner,manufacturing_impurity,1
+213,cinnamal,186,Medium,2.0,Recognized fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+223,citrus limon (lemon) fruit extract,178,Medium,2.0,Lemon extract; contains furocoumarins; allowed only at natural levels; may cause skin burns with sun exposure,plant_extract,photosensitizer; irritant,2
+233,triethanolamine,172,Medium,2.0,pH adjuster; restricted ≤2.5% due to risk of forming cancer-causing nitrosamines,ph_adjuster,annex_iii_restricted; carcinogen_concern; nitrosamine_concern,3
+247,methylparaben,162,Medium,2.0,"Preservative;
+permitted with concentration limits; SCCS
+reviewed endocrine-related concerns",preservative,annex_iii_restricted; endocrine_disruptor,2
+268,amyl cinnamal,141,Medium,2.0,Recognized fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+282,benzophenone-4,136,Medium,2.0,UV filter; permitted with concentration limits; SCCS reviewed endocrine-related concern,uv_filter,annex_iii_restricted; endocrine_disruptor,2
+300,retinyl palmitate,124,Medium,2.0,Restricted to 0.05 % RE body lotion / 0.3 % other,other,annex_iii_restricted,1
+318,citrus limon (lemon) peel oil,119,Medium,2.0,Lemon peel essential oil; may cause skin burns with sun exposure,other,photosensitizer; irritant,2
+327,pelargonium graveolens flower oil,115,Medium ,2.0,Geranium essential oil; fragrance allergens; may cause skin reactions,other,fragrance_allergen; irritant,2
+355,menthol,105,Medium,2.0,Cooling agents; may sensitize/ irritate sensitive skin or eyes,other,sensitizer; irritant,2
+358,retinol,104,Medium,2.0,Vitamin A; SCCS permitted with concentration limits; pregnancy precaution,vitamin,annex_iii_restricted; reproductive_toxin,2
+380,propylparaben,94,Medium,2.0,"Potential endocrine disruptor,may interfere with hormone balance",other,endocrine_disruptor,1
+4,phenoxyethanol,4266,Low-Medium,1.5,"Preservative;
+permitted with concentration limits; mild irritation/sensitization",preservative,annex_iii_restricted; sensitizer; irritant,3
+8,linalool,2902,Low-Medium,1.5,Fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+9,limonene,2860,Low-Medium,1.5,Fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+24,citronellol,1812,Low-Medium,1.5,Fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+31,alcohol denat,1412,Low-Medium,1.5,Drying with prolonged use,other,drying,1
+48,benzyl benzoate,972,Low-Medium,1.5,Fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+50,hexyl cinnamal,931,Low-Medium,1.5,Fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+51,alcohol,921,Low-Medium,1.5,Ethanol solvent; barrier-disruption potential,solvent,drying,1
+58,ci 42090 (blue 1),863,Low-Medium,1.5,Approved colorant; concentration restricted ,colorant,annex_iii_restricted,1
+59,propylene glycol,854,Low-Medium,1.5,Solvent / humectant; may cause minor irritation,humectant,irritant,1
+60,alpha-isomethyl ionone,814,Low-Medium,1.5,Recognized fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+65,butyl methoxydibenzoylmethane,716,Low-Medium,1.5,UV filter; permitted with concentration limits,uv_filter,annex_iii_restricted,1
+66,chlorphenesin,697,Low-Medium,1.5,Preservative; permitted with concentration on limits,preservative,annex_iii_restricted,1
+84,lactic acid,551,Low-Medium,1.5,Exfoliant and moisturizer; may irritate skin,moisturizer,irritant,1
+88,cyclopentasiloxane,515,Low-Medium,1.5,Volatile silicone; safe at cosmetic levels,silicone,,0
+97,ethylhexyl salicylate,480,Low-Medium,1.5,UV filter; permitted with concentration limits,uv_filter,annex_iii_restricted,1
+125,isopropyl alcohol,374,Low-Medium,1.5,Solvent; may cause mild skin drying and irritation,solvent,irritant; drying,2
+126,ci 45410 (red 28),372,Low-Medium,1.5,Approved colorant; concentration restricted ,colorant,annex_iii_restricted,1
+137,ci 60730 (ext violet 2),339,Low-Medium,1.5,Synthetic colorant; restricted from lips and eye area,colorant,annex_iii_restricted,1
+154,ci 17200 (red 33),282,Low-Medium,1.5,Approved colorant; concentration restricted ,colorant,annex_iii_restricted,1
+159,glycolic acid,270,Low-Medium,1.5,Chemical peels and anti-aging skin products; can irritate skin,other,irritant,1
+171,potassium hydroxide,246,Low-Medium,1.5,pH adjuster; restricted due to strong alkalinity; concentration limits apply,ph_adjuster,annex_iii_restricted,1
+188,sodium metabisulfite,217,Low-Medium,1.5,Antioxidant preservative; may cause reactions in sulfite-sensitive individuals,preservative,sensitizer,1
+222,phenethyl alcohol,178,Low-Medium,1.5,Recognized fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+228,ptfe,176,Low-Medium,1.5,Microplastic polymer (Teflon); targeted for phase-outs in the EU,other,microplastic; environmental_concern,2
+252,lavandula angustifolia (lavender) oil,156,Low-Medium,1.5,Lavender oil; contains linalool which may cause skin allergy,other,sensitizer; irritant,2
+267,mentha piperita (peppermint) oil,143,Low-Medium,1.5,Peppermint oil; menthol can sensitize / irritate skin,other,sensitizer; irritant,2
+275,sorbitan sesquioleate,139,Low-Medium,1.5,Emulsifier; documented potential for contact allergy,emulsifier,sensitizer,1
+277,vanillin,138,Low-Medium,1.5,Recognized fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+284,citrus aurantium dulcis (orange) peel oil,136,Low-Medium,1.5,Citrus oil; may cause skin sensitivity to sunlight; contains limonene,other,photosensitizer; irritant,2
+319,benzyl cinnamate,118,Low-Medium,1.5,Fragrance allergen; may cause skin reactions,other,fragrance_allergen; irritant,2
+343,sodium c14-16 olefin sulfonate,110,Low-Medium,1.5,Anionic surfactant; potential mild irritant at higher concentrations,surfactant,irritant,1
+345,citrus aurantium bergamia (bergamot) fruit oil,110,Low-Medium,1.5,Bergamot oil; potentially phototoxic (bergapten); may cause skin sensitization,other,sensitizer; photosensitizer; irritant,3
+347,cyclohexasiloxane,108,Low-Medium,1.5,Volatile silicone (D5); EU environmental review for PBT properties; safe for topical use,silicone,environmental_concern,1
+349,sodium laureth sulfate,107,Low-Medium,1.5,"Mild anionic surfactant; potential 1,4-dioxane manufacturing impurity",surfactant,manufacturing_impurity,1
+1,water,6805,Low,1.0,Universal solvent; safe,solvent,,0
+2,dimethicone,4444,Low,1.0,Skin-protectant silicone; non-irritating,silicone,,0
+3,glycerin,4393,Low,1.0,Solvent; skin conditioning; moisturizer; safe,moisturizer,,0
+6,tocopherol,3053,Low,1.0,Vitamin E antioxidant; safe,antioxidant,,0
+7,titanium dioxide (ci 77891),2925,Low,1.0,UV filter and colorant; safe,uv_filter,,0
+10,silica,2850,Low,1.0,Absorbent / anti caking; safe topically,absorbent,,0
+11,caprylyl glycol,2835,Low,1.0,Humectant /preservative booster; safe,preservative,,0
+12,ethylhexylglycerin,2513,Low,1.0,Skin conditioning; low irritation,conditioner,irritant,1
+13,iron oxides (ci 77491),2486,Low,1.0,Approved colorant; safe,colorant,,0
+14,citric acid,2437,Low,1.0,pH adjuster; safe,ph_adjuster,,0
+15,butylene glycol,2372,Low,1.0,Humectant / solvent; safe at cosmetic concentration,humectant,,0
+16,mica (ci 77019),2357,Low,1.0,Approved colorant; safe,colorant,,0
+17,sodium hyaluronate,2215,Low,1.0,Humectant; safe,humectant,,0
+18,iron oxides (ci 77499),2133,Low,1.0,Approved colorant; safe,colorant,,0
+19,potassium sorbate,1966,Low,1.0,Preservative; safe at cosmetic levels,preservative,,0
+20,iron oxides (ci 77492),1956,Low,1.0,Approved colorant; safe,colorant,,0
+21,caprylic/capric triglyceride,1863,Low,1.0,Coconut-derived moisturizer; safe,moisturizer,,0
+22,disodium edta,1826,Low,1.0,Chelating agent; safe at cosmetic levels,chelator,,0
+23,sodium benzoate,1814,Low,1.0,Preservative; safe at cosmetic levels,preservative,,0
+25,propanediol,1743,Low,1.0,Humectant/solvent; well tolerated,humectant,,0
+27,tocopheryl acetate,1708,Low,1.0,Vitamin E ester antioxidant; safe,antioxidant,,0
+29,helianthus annuus seed oil,1461,Low,1.0,Sunflower oil moisturizer; safe,moisturizer,,0
+32,xanthan gum,1373,Low,1.0,Hydration and conditioning; safe,conditioner,,0
+33,ci 19140 (yellow 5),1366,Low,1.0,Approved colorant; safe,colorant,,0
+34,sodium hydroxide,1345,Low,1.0,pH adjuster; safe,ph_adjuster,,0
+35,cetearyl alcohol,1189,Low,1.0,Fatty alcohol emulsifier; safe,emulsifier,,0
+36,jojoba oil,1163,Low,1.0,Liquid wax ester emollient; safe,emollient,,0
+37,panthenol,1150,Low,1.0,Pro-Vvitamin B5 humectant; safe,humectant,,0
+40,ascorbic acid,1106,Low,1.0,Vitamin C antioxidant; safe,antioxidant,,0
+41,tin oxide (ci 77861),1072,Low,1.0,Approved colorant; safe,colorant,,0
+42,shea butter,1072,Low,1.0,Plant butter emollient; safe,emollient,,0
+43,squalane,1059,Low,1.0,Saturated emollient; safe,emollient,,0
+44,pentylene glycol,1037,Low,1.0,Humectant/solvent; low irritation,humectant,irritant,1
+45,talc,1035,Low,1.0,Moisture absorption; texture enhancement; safe,absorbent,,0
+46,aloe barbadensis,1031,Low,1.0,Plant extract soothing; safe,soothing,,0
+47,synthetic fluorphlogopite,976,Low,1.0,Skin tone enhancer; safe,colorant,,0
+52,2-hexanediol,919,Low,1.0,Solvent/preservative-booster; safe at cosmetic levels,preservative,,0
+53,ci 15850 (red 7),919,Low,1.0,Approved colorant; safe,colorant,,0
+55,zinc stearate,909,Low,1.0,Anti-caking; safe,absorbent,,0
+56,sodium chloride,891,Low,1.0,Salt; safe,salt,,0
+57,glyceryl stearate,880,Low,1.0,Emulsifier; safe,emulsifier,,0
+61,pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate,804,Low,1.0,Antioxidant; safe,antioxidant,,0
+62,carbomer,763,Low,1.0,Polyacrylic acid thickener; safe,thickener,,0
+63,cetyl alcohol,733,Low,1.0,Fatty alcohol emollient; safe,emollient,,0
+64,camellia sinensis leaf extract,725,Low,1.0,Green tea polyphenol antioxidant; safe,antioxidant,,0
+67,triethoxycaprylylsilane,686,Low,1.0,Pigment surface coating; safe,colorant,,0
+68,stearic acid,685,Low,1.0,Fatty acid emulsifier; safe,emulsifier,,0
+69,ethylhexyl palmitate,676,Low,1.0,Emollient ester; safe,emollient,,0
+70,sodium dehydroacetate,674,Low,1.0,Preservative; safe at cosmetic levels,preservative,,0
+71,cocos nucifera oil,673,Low,1.0,Coconut oil moisturizer; safe,moisturizer,,0
+72,octyldodecanol,647,Low,1.0,Fatty alcohol emollient; safe,emollient,,0
+73,hexylene glycol,633,Low,1.0,Solvent / humectant; safe,humectant,,0
+74,lecithin,619,Low,1.0,Phospholipid emulsifier; safe,emulsifier,,0
+75,isododecane,607,Low,1.0,Volatile hydrocarbon solvent; safe,solvent,,0
+77,sodium citrate,599,Low,1.0,pH buffer; safe,ph_adjuster,,0
+78,ultramarines (ci 77007),595,Low,1.0,Approved colorant; safe,colorant,,0
+79,polysorbate 20,594,Low,1.0,Non-ionic emulsifier; safe,emulsifier,,0
+80,polyethylene,590,Low,1.0,Synthetic polymer; safe,polymer,,0
+81,boron nitride,578,Low,1.0,Optical-finish powder; safe,absorbent,,0
+83,rosmarinus officinalis extract,562,Low,1.0,Rosemary antioxidant extract; safe,antioxidant,,0
+85,carmine (ci 75470),548,Low,1.0,Approved colorant; safe,colorant,,0
+86,octyldodecyl stearoyl stearate,539,Low,1.0,Emollient ester; safe,emollient,,0
+87,niacinamide,529,Low,1.0,Vitamin B3; well tolerated,vitamin,,0
+89,disteardimonium hectorite,505,Low,1.0,Rheology modifier; safe,thickener,,0
+90,sorbic acid,502,Low,1.0,Preservative; safe at cosmetic levels,preservative,,0
+91,kaolin,500,Low,1.0,Clay absorbent; safe,absorbent,,0
+92,hydrogenated polyisobutene,499,Low,1.0,Synthetic emollient; safe,emollient,,0
+93,lauroyl lysine,490,Low,1.0,Amino-acid lipid; safe,amino_acid,,0
+94,manganese violet (ci 77742),487,Low,1.0,Approved colorant; safe,colorant,,0
+95,diisostearyl malate,486,Low,1.0,Emollient; texture enhancer; safe,emollient,,0
+98,caffeine,475,Low,1.0,Antioxidant; safe,antioxidant,,0
+99,maltodextrin,467,Low,1.0,Starch-based binder; helps hold product together; safe,thickener,,0
+100,hydroxyethylcellulose,460,Low,1.0,Plant-based thickener; controls product texture; safe,thickener,,0
+101,trimethylsiloxysilicate,458,Low,1.0,Silicone resin; helps product stay on skin; safe,silicone,,0
+102,glyceryl caprylate,446,Low,1.0,Moisturizer and preservative booster; safe,preservative,,0
+103,synthetic wax,440,Low,1.0,Man-made wax; texture agent; safe,wax,,0
+104,sodium pca,437,Low,1.0,Natural skin moisturizing factor; safe,moisturizer,,0
+105,dipropylene glycol,433,Low,1.0,Moisturizer/solvent; safe,moisturizer,,0
+106,polybutene,428,Low,1.0,Thickener; controls product consistency; safe,thickener,,0
+107,polysorbate 60,426,Low,1.0,Blends oil and water in formulas; safe,emulsifier,,0
+108,acrylates/c10-30 alkyl acrylate crosspolymer,420,Low,1.0,Thickener; controls product texture; safe,thickener,,0
+109,sorbitan isostearate,420,Low,1.0,Blends oil and water in formulas; safe,emulsifier,,0
+110,polymethylsilsesquioxane,418,Low,1.0,Silicone powder; gives smooth finish; safe,silicone,,0
+111,nylon-12,416,Low,1.0,Synthetic powder; safe,polymer,,0
+113,hydroxyacetophenone,405,Low,1.0,Antioxidant and preservative booster; safe,preservative,,0
+114,persea gratissima oil,403,Low,1.0,Avocado oil moisturizer; safe,moisturizer,,0
+115,leuconostoc/radish root ferment filtrate,400,Low,1.0,Natural preservative from radish fermentation; safe,preservative,,0
+116,bismuth oxychloride (ci 77163),399,Low,1.0,Approved colorant; safe,colorant,,0
+117,sodium phytate,393,Low,1.0,Preservative booster (binds metals); safe,preservative,,0
+118,propylene carbonate,393,Low,1.0,Solvent; helps dissolve other ingredients; safe,emulsifier,,0
+119,hydrogenated lecithin,388,Low,1.0,Natural lipid; helps product absorb into skin; safe,skin_barrier,,0
+121,aluminum hydroxide,379,Low,1.0,Pigment base material; safe,colorant,,0
+123,calcium sodium borosilicate,377,Low,1.0,Sparkle/glitter effect pigment; safe,colorant,,0
+127,phenyl trimethicone,371,Low,1.0,Silicone; gives shine and smooth feel; safe,silicone,,0
+128,argania spinosa kernel oil,366,Low,1.0,Argan oil moisturizer; safe,moisturizer,,0
+129,benzoic acid,358,Low,1.0,Preservative; safe at cosmetic levels,preservative,,0
+130,ci 15985 (yellow 6),353,Low,1.0,Approved colorant; safe,colorant,,0
+131,ci 14700 (red 4),352,Low,1.0,Approved colorant; safe,colorant,,0
+133,bis-diglyceryl polyacyladipate-2,343,Low,1.0,Moisturizer; safe,moisturizer,,0
+134,arginine,340,Low,1.0,Naturally occurring amino acid; safe,amino_acid,,0
+135,trehalose,340,Low,1.0,Natural sugar moisturizer; safe,moisturizer,,0
+136,acrylates copolymer,339,Low,1.0,Film-former; keeps product on skin/hair; safe,film_former,,0
+138,calcium aluminum borosilicate,333,Low,1.0,Sparkle/glitter effect pigment; safe,colorant,,0
+139,allantoin,329,Low,1.0,Soothes and calms skin; safe,soothing,,0
+140,coco-caprylate/caprate,328,Low,1.0,Lightweight coconut-derived moisturizer; safe,moisturizer,,0
+141,alumina,328,Low,1.0,Lightweight coconut-derived moisturizer; safe,moisturizer,,0
+142,palmitic acid,327,Low,1.0,Natural fatty acid; safe,fatty_acid,,0
+143,peg-40 hydrogenated castor oil,325,Low,1.0,Helps dissolve oils in water-based formulas; safe,emulsifier,,0
+144,betaine,318,Low,1.0,Natural moisturizer from sugar beet; safe,moisturizer,,0
+145,ferric ferrocyanide (ci 77510),317,Low,1.0,Approved colorant; safe,colorant,,0
+146,peg-100 stearate,311,Low,1.0,Blends oil and water in formulas; safe,emulsifier,,0
+147,dimethiconol,309,Low,1.0,Silicone conditioner; safe,conditioner,,0
+148,trisodium ethylenediamine disuccinate,309,Low,1.0,Preservative booster (binds metals); safe,preservative,,0
+150,ricinus communis (castor) seed oil,293,Low,1.0,Castor oil emollient; safe,emollient,,0
+151,hydroxyethyl acrylate/sodium acryloyldimethyl taurate copolymer,289,Low,1.0,Thickener; controls product texture; safe,thickener,,0
+152,polysilicone-11,288,Low,1.0,Silicone elastomer; gives bouncy texture; safe,silicone,,0
+153,dehydroacetic acid,283,Low,1.0,Preservative; safe at cosmetic levels,preservative,,0
+155,isononyl isononanoate,281,Low,1.0,Lightweight moisturizer; safe,moisturizer,,0
+156,guar hydroxypropyltrimonium chloride,280,Low,1.0,Natural hair conditioner from guar bean; safe,conditioner,,0
+157,stearyl alcohol,276,Low,1.0,Natural fatty alcohol; moisturizer; safe,moisturizer,,0
+158,prunus amygdalus dulcis (sweet almond) oil,272,Low,1.0,Sweet almond oil; safe,plant_extract,,0
+161,c12-15 alkyl benzoate,268,Low,1.0,Lightweight moisturizer; safe,moisturizer,,0
+162,isohexadecane,266,Low,1.0,Lightweight synthetic moisturizer; safe,moisturizer,,0
+163,adenosine,264,Low,1.0,Naturally occurring skin conditioner; safe,conditioner,,0
+165,gluconolactone,258,Low,1.0,Gentle exfoliant (PHA); less irritating than AHAs; safe,exfoliant,,0
+166,bisabolol,256,Low,1.0,Chamomile-derived; soothes skin; safe,soothing,,0
+167,behenyl alcohol,252,Low,1.0,Natural fatty alcohol; moisturizer; safe,moisturizer,,0
+168,decyl glucoside,251,Low,1.0,Gentle sugar-based cleanser; safe,surfactant,,0
+169,ceramide np,251,Low,1.0,Skin barrier lipid; repairs and strengthens skin; safe,skin_barrier,,0
+170,amodimethicone,248,Low,1.0,Silicone hair conditioner; safe,conditioner,,0
+172,pentaerythrityl tetraisostearate,245,Low,1.0,Moisturizer; safe,moisturizer,,0
+173,zea mays (corn) starch,243,Low,1.0,Corn starch; absorbs oil; safe,absorbent,,0
+174,sodium lactate,241,Low,1.0,Natural skin moisturizing factor; safe,moisturizer,,0
+175,sorbitol,238,Low,1.0,Sugar-based moisturizer; safe,moisturizer,,0
+176,hdi/trimethylol hexyllactone crosspolymer,237,Low,1.0,Film-former; keeps product on skin; safe,film_former,,0
+177,methicone,231,Low,1.0,Silicone coating for pigments; safe,colorant,,0
+178,chamomilla recutita (matricaria) flower extract,231,Low,1.0,Chamomile extract; soothes skin; safe,soothing,,0
+179,biotin,230,Low,1.0,Vitamin B7; supports hair and nail health; safe,vitamin,,0
+181,glycine soja (soybean) oil,226,Low,1.0,Soybean oil moisturizer; safe,moisturizer,,0
+182,vitis vinifera (grape) seed oil,222,Low,1.0,Grapeseed oil; safe,plant_extract,,0
+183,carthamus tinctorius (safflower) seed oil,222,Low,1.0,Safflower oil; safe,plant_extract,,0
+185,rosa canina fruit oil,221,Low,1.0,Rosehip oil; safe,plant_extract,,0
+186,sucrose,217,Low,1.0,Sugar; moisturizer; safe,moisturizer,,0
+187,polyhydroxystearic acid,217,Low,1.0,Helps distribute pigments evenly; safe,colorant,,0
+189,cucumis sativus (cucumber) fruit extract,215,Low,1.0,Cucumber extract; soothing and hydrating; safe,soothing,,0
+190,tetrahexyldecyl ascorbate,214,Low,1.0,Stable vitamin C derivative; antioxidant; safe,antioxidant,,0
+191,phospholipids,213,Low,1.0,Natural cell membrane lipids; helps product absorb into skin; safe,skin_barrier,,0
+192,polysorbate 80,213,Low,1.0,Blends oil and water in formulas; safe,emulsifier,,0
+193,polyquaternium-10,211,Low,1.0,Hair conditioner; reduces static; safe,conditioner,,0
+194,sorbitan olivate,211,Low,1.0,Olive-derived emulsifier; safe,emulsifier,,0
+195,oryza sativa (rice) bran extract,208,Low,1.0,Rice bran antioxidant; brightening; safe,antioxidant,,0
+196,paraffin,206,Low,1.0,Refined mineral wax; seals in moisture; safe,wax,,0
+197,ammonium acryloyldimethyltaurate/vp copolymer,202,Low,1.0,Thickener; controls product texture; safe,thickener,,0
+198,disodium phosphate,202,Low,1.0,pH adjuster; safe,ph_adjuster,,0
+199,glucose,202,Low,1.0,Natural sugar; moisturizer; safe,moisturizer,,0
+200,pyrus malus (apple) fruit extract,200,Low,1.0,Apple-derived skin conditioner; safe,conditioner,,0
+201,sodium cocoyl isethionate,195,Low,1.0,Gentle coconut-based cleanser; safe,surfactant,,0
+202,glycyrrhiza glabra (licorice) root extract,195,Low,1.0,Licorice extract; soothes skin; safe,soothing,,0
+203,cetearyl glucoside,194,Low,1.0,Sugar-based emulsifier; safe,emulsifier,,0
+204,synthetic beeswax,193,Low,1.0,Man-made wax; texture agent; safe,wax,,0
+205,pvp,193,Low,1.0,Film-forming polymer; holds product on skin/hair; safe,film_former,,0
+206,hydrolyzed vegetable protein pg-propyl silanetriol,192,Low,1.0,Hair and skin conditioner; safe,conditioner,,0
+207,tetrasodium glutamate diacetate,191,Low,1.0,Preservative booster (binds metals); safe,preservative,,0
+208,magnesium myristate,190,Low,1.0,Prevents clumping in powders; safe,absorbent,,0
+209,glycine,189,Low,1.0,Naturally occurring amino acid; safe,amino_acid,,0
+210,olea europaea (olive) fruit oil,188,Low,1.0,Olive oil; safe,plant_extract,,0
+211,linoleic acid,188,Low,1.0,Natural skin-repairing fatty acid; safe,fatty_acid,,0
+212,sorbitan oleate,188,Low,1.0,Blends oil and water in formulas; safe,emulsifier,,0
+214,polymethyl methacrylate,184,Low,1.0,Synthetic polymer powder; safe,polymer,,0
+215,polyglyceryl-2 triisostearate,184,Low,1.0,Blends oil and water in formulas; safe,emulsifier,,0
+216,palmitoyl tripeptide-1,183,Low,1.0,Anti-aging peptide; safe,peptide,,0
+217,cetearyl olivate,183,Low,1.0,Olive-derived emulsifier; safe,emulsifier,,0
+218,acacia senegal gum,183,Low,1.0,Natural plant gum thickener; safe,thickener,,0
+219,serine,182,Low,1.0,Naturally occurring amino acid; safe,amino_acid,,0
+220,melia azadirachta leaf extract,181,Low,1.0,Neem leaf extract; skin conditioner; safe,conditioner,,0
+221,caprylhydroxamic acid,179,Low,1.0,Preservative booster (binds metals); safe,preservative,,0
+224,cholesterol,177,Low,1.0,Natural skin lipid; strengthens skin barrier; safe,skin_barrier,,0
+225,saccharide isomerate,177,Low,1.0,Plant-derived moisturizer; safe,moisturizer,,0
+226,xylitol,177,Low,1.0,Sugar-based moisturizer; safe,moisturizer,,0
+227,cellulose,176,Low,1.0,Natural plant fibre; thickener; safe,thickener,,0
+229,glycol distearate,175,Low,1.0,Gives pearly appearance to products; moisturizer; safe,colorant,,0
+230,dicaprylyl carbonate,174,Low,1.0,Lightweight moisturizer; safe,moisturizer,,0
+231,curcuma longa (turmeric) root extract,172,Low,1.0,Turmeric extract; antioxidant; safe,antioxidant,,0
+232,magnesium stearate,172,Low,1.0,Anti-caking; safe,absorbent,,0
+234,calcium gluconate,171,Low,1.0,Mineral salt; skin conditioner; safe,conditioner,,0
+235,cetyl esters,169,Low,1.0,Emollient wax; safe,emollient,,0
+236,ci 77288 (chromium oxide green),168,Low,1.0,Approved colorant; safe,colorant,,0
+237,triethyl citrate,167,Low,1.0,Solvent; helps other ingredients dissolve; safe,solvent,,0
+238,trideceth-12,167,Low,1.0,Cleansing/emulsifying agent; safe,surfactant,,0
+239,moringa oleifera seed oil,166,Low,1.0,Moringa oil moisturizer; safe,moisturizer,,0
+240,tribehenin,165,Low,1.0,Plant-based moisturizer; safe,moisturizer,,0
+241,lactobacillus ferment,164,Low,1.0,Probiotic-derived skin conditioner; safe,conditioner,,0
+242,behentrimonium methosulfate,163,Low,1.0,Gentle hair conditioner; safe,conditioner,,0
+243,coco-glucoside,163,Low,1.0,Gentle coconut-based cleanser; safe,surfactant,,0
+244,polyacrylate crosspolymer-6,163,Low,1.0,Thickener; controls product texture; safe,thickener,,0
+245,limnanthes alba (meadowfoam) seed oil,162,Low,1.0,Meadowfoam oil moistrurizer; safe,moisturizer,,0
+246,cetearyl ethylhexanoate,162,Low,1.0,Lightweight moisturizer; safe,moisturizer,,0
+248,triethylhexanoin,161,Low,1.0,Lightweight moisturizer; safe,moisturizer,,0
+249,hydrogenated vegetable oil,158,Low,1.0,Vegetable-based wax; safe,wax,,0
+250,methyl methacrylate crosspolymer,157,Low,1.0,Synthetic polymer; safe,polymer,,0
+251,magnesium sulfate,156,Low,1.0,Mineral salt (Epsom salt); safe,mineral,,0
+253,isopentyldiol,153,Low,1.0,Moisturizer/solvent; safe,moisturizer,,0
+254,sodium phosphate,151,Low,1.0,pH adjuster; safe,ph_adjuster,,0
+255,urea,151,Low,1.0,Moisturizer; softens rough skin; safe,moisturizer,,0
+256,palmitoyl tetrapeptide-7,150,Low,1.0,Anti-aging peptide; safe,peptide,,0
+257,dicalcium phosphate,150,Low,1.0,Mineral; safe,mineral,,0
+258,proline,149,Low,1.0,Naturally occurring amino acid; safe,amino_acid,,0
+259,hydrogenated polydecene,149,Low,1.0,Synthetic moisturizer; safe,moisturizer,,0
+260,glyceryl stearate se,148,Low,1.0,Blends oil and water in formulas; safe,emulsifier,,0
+261,ci 77289 (chromium hydroxide green),147,Low,1.0,Approved colorant; safe,colorant,,0
+262,algae extract,146,Low,1.0,Seaweed-derived skin conditioner; safe,conditioner,,0
+263,potassium cetyl phosphate,145,Low,1.0,Blends oil and water in formulas; safe,emulsifier,,0
+264,oryza sativa (rice) extract,145,Low,1.0,Rice extract; skin brightening; safe,plant_extract,,0
+265,sodium stearoyl glutamate,143,Low,1.0,Gentle amino acid-based emulsifier; safe,emulsifier,,0
+266,hydrolyzed rice protein,143,Low,1.0,Rice protein; strengthens hair; safe,conditioner,,0
+269,polyquaternium-37,141,Low,1.0,Hair/skin conditioner; safe,conditioner,,0
+270,isopropyl myristate,140,Low,1.0,Moisturizer; helps product absorb into skin; safe,moisturizer,,0
+271,vp/eicosene copolymer,140,Low,1.0,Film-former; keeps product on skin; safe,film_former,,0
+272,phytic acid,139,Low,1.0,Natural preservative booster from plants; safe,preservative,,0
+273,caprylyl methicone,139,Low,1.0,Lightweight silicone; safe,silicone,,0
+274,sodium methyl cocoyl taurate,139,Low,1.0,Gentle coconut-based cleanser; safe,surfactant,,0
+276,ethylene/acrylic acid copolymer,139,Low,1.0,Synthetic polymer; safe,polymer,,0
+278,citrullus lanatus (watermelon) fruit extract,138,Low,1.0,Watermelon extract; hydrating; safe,plant_extract,,0
+279,polyisobutene,138,Low,1.0,Moisturizer/film-former; safe,moisturizer,,0
+280,vp/va copolymer,137,Low,1.0,Film-former; holds product on hair/skin; safe,film_former,,0
+281,sodium polyacrylate,137,Low,1.0,Thickener; controls product texture; safe,thickener,,0
+283,ethylene/propylene/styrene copolymer,136,Low,1.0,Synthetic polymer; safe,polymer,,0
+285,butylene/ethylene/styrene copolymer,135,Low,1.0,Synthetic polymer; safe,polymer,,0
+286,dipotassium glycyrrhizate,134,Low,1.0,Soothing skin; Anti-inflammatory; safe,soothing,,0
+287,alanine,132,Low,1.0,Naturally occurring amino acid; safe,amino_acid,,0
+288,threonine,132,Low,1.0,Naturally occurring amino acid; safe,amino_acid,,0
+289,melia azadirachta flower extract,131,Low,1.0,Neem flower extract; skin conditioner; safe,conditioner,,0
+290,glycereth-26,131,Low,1.0,Moisturizer; safe,moisturizer,,0
+291,sodium gluconate,128,Low,1.0,Preservative booster (binds metals); safe,preservative,,0
+292,hydrogenated castor oil,127,Low,1.0,Castor-based wax; safe,wax,,0
+293,trideceth-6,127,Low,1.0,Cleansing/emulsifying agent; safe,surfactant,,0
+294,methyl trimethicone,126,Low,1.0,Lightweight silicone; safe,silicone,,0
+295,phenylalanine,126,Low,1.0,Naturally occurring amino acid; safe,amino_acid,,0
+296,acetyl hexapeptide-8,126,Low,1.0,Anti-wrinkle peptide; safe,peptide,,0
+297,sclerotium gum,126,Low,1.0,Natural thickener from fungi; safe,thickener,,0
+298,sodium lauroyl sarcosinate,126,Low,1.0,Gentle cleanser; safe,surfactant,,0
+299,laureth-4,125,Low,1.0,Emulsifying agent; safe,emulsifier,,0
+301,magnesium aluminum silicate,124,Low,1.0,Clay-based absorbent/thickener; safe at cosmetic levels,thickener,,0
+302,corallina officinalis extract,123,Low,1.0,Plant-derived emollient/extract; safe at cosmetic levels,emollient,,0
+303,ceteareth-20,123,Low,1.0,PEG-based emulsifier; safe at cosmetic levels,emulsifier,,0
+304,aluminum starch octenylsuccinate,123,Low,1.0,Starch-based absorbent; safe,absorbent,,0
+305,citrus aurantium dulcis (orange) fruit extract,122,Low,1.0,Orange fruit pulp extract; mild antioxidant; safe,antioxidant,,0
+306,theobroma cacao (cocoa) seed butter,122,Low,1.0,Plant-derived emollient/extract; safe at cosmetic levels,emollient,,0
+307,hydrogenated olive oil unsaponifiables,122,Low,1.0,Olive-derived emollient; safe,emollient,,0
+308,ozokerite,121,Low,1.0,Mineral wax; structurant; safe,wax,,0
+309,trihydroxystearin,120,Low,1.0,Thickener/gelling agent; skin-conditioning; safe,thickener,,0
+310,zingiber officinale (ginger) root extract,120,Low,1.0,Plant-derived emollient/extract; safe at cosmetic levels,emollient,,0
+311,sclerocarya birrea seed oil,120,Low,1.0,Plant-derived emollient/extract; safe at cosmetic levels,emollient,,0
+312,ci 16035 (red 40),120,Low,1.0,Approved colorant; safe,colorant,,0
+313,phytosphingosine,119,Low,1.0,Skin lipid; supports barrier function; safe,skin_barrier,,0
+314,cellulose gum,119,Low,1.0,Plant-derived thickener; safe,thickener,,0
+315,aspartic acid,119,Low,1.0,Amino acid; safe building block,amino_acid,,0
+316,isostearic acid,119,Low,1.0,Fatty acid emollient; safe,emollient,,0
+317,prunus armeniaca (apricot) kernel oil,119,Low,1.0,Plant-derived emollient/extract; safe at cosmetic levels,emollient,,0
+320,coconut alkanes,118,Low,1.0,Plant-derived emollient; silicone alternative; safe,emollient,,0
+321,c11-15 pareth-7,118,Low,1.0,Surfactant/emulsifier; safe at cosmetic levels,surfactant,,0
+322,decylene glycol,118,Low,1.0,Skin-conditioning;  safe,conditioner,,0
+323,hydrogenated ethylhexyl olivate,116,Low,1.0,Olive-derived emollient ester; safe,emollient,,0
+324,copernicia cerifera (carnauba) wax,116,Low,1.0,Plant-derived wax; structuring; safe,wax,,0
+325,coconut acid,116,Low,1.0,Fatty acid mix from coconut; safe,fatty_acid,,0
+326,methylpropanediol,116,Low,1.0,Sugar-derived humectant; safe,humectant,,0
+328,sorbitan stearate,114,Low,1.0,Emulsifier; safe,emulsifier,,0
+329,hydrolyzed soy protein,114,Low,1.0,Soy-derived film-former; safe at topical use,film_former,,0
+330,caramel,114,Low,1.0,Sugar-derived natural colorant; safe,colorant,,0
+331,algin,113,Low,1.0,Sugar-derived humectant; safe,humectant,,0
+332,valine,113,Low,1.0,Amino acid; safe building block,amino_acid,,0
+333,cocamidopropyl hydroxysultaine,113,Low,1.0,Surfactant; safe,surfactant,,0
+334,cetyl ethylhexanoate,113,Low,1.0,Emollient ester; safe,emollient,,0
+335,dextrin,112,Low,1.0,Sugar-derived humectant; safe,humectant,,0
+336,pca,112,Low,1.0,Natural moisturizing factor; safe,moisturizer,,0
+337,pullulan,111,Low,1.0,Sugar-derived humectant; safe,humectant,,0
+338,isopropyl palmitate,111,Low,1.0,Fatty ester emollient; safe,emollient,,0
+339,stearamidopropyl dimethylamine,111,Low,1.0,Hair-conditioning agents; safe at cosmetic levels,conditioner,,0
+340,laureth-7,111,Low,1.0,Surfactant/emulsifier; safe at cosmetic levels,surfactant,,0
+341,hydrolyzed collagen,111,Low,1.0,Protein-derived film-former; safe,film_former,,0
+342,lauryl glucoside,110,Low,1.0,Plant-derived mild surfactant; safe,surfactant,,0
+344,isoleucine,110,Low,1.0,Amino acid; safe building block,amino_acid,,0
+346,histidine,109,Low,1.0,Amino acid; safe building block,amino_acid,,0
+348,mangifera indica (mango) seed butter,107,Low,1.0,Plant-derived emollient/extract; safe at cosmetic levels,emollient,,0
+350,c10-18 triglycerides,107,Low,1.0,Fatty emollient; safe,emollient,,0
+351,steareth-20,106,Low,1.0,PEG-based nonionic emulsifier; safe at cosmetic levels,emulsifier,,0
+352,myristic acid,106,Low,1.0,Fatty acid; emollient/foaming agent; safe,surfactant,,0
+353,ppg-26-buteth-26,106,Low,1.0,PPG-based solubilizer/emulsifier; safe at cosmetic levels,emulsifier,,0
+354,sodium lauroyl methyl isethionate,106,Low,1.0,Mild anionic surfactant; safe,surfactant,,0
+356,ocimum sanctum leaf extract,105,Low,1.0,Holy basil extract; antioxidant; safe,antioxidant,,0
+357,tridecyl trimellitate,105,Low,1.0,Fatty ester emollient; safe,emollient,,0
+359,vanilla planifolia fruit extract,104,Low,1.0,Plant-derived emollient/extract; safe at cosmetic levels,emollient,,0
+360,acetic acid,104,Low,1.0,pH adjuster; safe,ph_adjuster,,0
+361,panax ginseng root extract,104,Low,1.0,Plant-derived emollient/extract; safe at cosmetic levels,emollient,,0
+362,chondrus crispus extract,103,Low,1.0,Thickener; controls product consistency; safe,thickener,,0
+363,vp/hexadecene copolymer,103,Low,1.0,Synthetic film-former; safe,film_former,,0
+364,peg-8,103,Low,1.0,Humectant/solvent; safe at cosmetic levels,humectant,,0
+365,butyloctyl salicylate,103,Low,1.0,UV booster/solvent; safe,solvent,,0
+366,polyglycerin-3,102,Low,1.0,Plant-derived humectant; safe,humectant,,0
+367,acetyl glucosamine,102,Low,1.0,Sugar derivatives; skin-conditioning; safe,conditioner,,0
+368,myristyl myristate,101,Low,1.0,Wax ester emollient; safe,emollient,,0
+369,euphorbia cerifera (candelilla) wax,101,Low,1.0,Plant-derived wax; structuring; safe,wax,,0
+370,petrolatum,101,Low,1.0,Cosmetic-grade refined petrolatum; safe occlusive moisturizer,moisturizer,,0
+371,hydrolyzed quinoa,100,Low,1.0,Plant protein film-former; safe,film_former,,0
+372,dimethyl isosorbide,100,Low,1.0,Penetration enhancer/solvent; safe at typical use levels,solvent,,0
+373,astrocaryum murumuru seed butter,100,Low,1.0,Plant-derived emollient/extract; safe at cosmetic levels,emollient,,0
+374,centella asiatica extract,99,Low,1.0,Plant-derived emollient/extract; safe at cosmetic levels,emollient,,0
+375,dicaprylyl ether,98,Low,1.0,Emollient ester; safe,emollient,,0
+376,disodium stearoyl glutamate,96,Low,1.0,Amino-acid surfactant; mild safe,surfactant,,0
+377,microcrystalline wax/cera microcristallina/cire microcristalline,96,Low,1.0,Petroleum-derived wax; structurant; safe,wax,,0
+378,stearalkonium hectorite,95,Low,1.0,Modified clay gellant; safe at cosmetic levels,thickener,,0
+379,glyceryl stearate citrate,95,Low,1.0,Plant-based emulsifier; safe,emulsifier,,0
+381,anhydroxylitol,94,Low,1.0,Sugar-derived humectant; safe,humectant,,0
+382,avena sativa (oat) kernel extract,93,Low,1.0,Plant-derived emollient/extract; safe at cosmetic levels,emollient,,0
+383,xylitylglucoside,93,Low,1.0,Sugar-derived humectant; safe,humectant,,0
+384,yeast extract/faex/extrait de levure,93,Low,1.0,Yeast extract; conditioning; safe,conditioner,,0
+385,polyglyceryl-3 diisostearate,92,Low,1.0,Plant-based emulsifier; safe,emulsifier,,0
+386,red 30 lake (ci 73360),91,Low,1.0,Approved colorant; safe,colorant,,0
+387,laminaria saccharina extract,91,Low,1.0,Plant-derived emollient/extract; safe at cosmetic levels,emollient,,0
+388,hydrolyzed wheat protein,90,Low,1.0,Wheat-derived film-former; safe at cosmetic levels,film_former,,0
+389,capryloyl glycerin/sebacic acid copolymer,90,Low,1.0,Glycerin-based preservative bosses; safe,preservative,,0
+390,sodium isethionate,90,Low,1.0,Mild surfactant; safe,surfactant,,0
+391,coco-betaine,90,Low,1.0,Plant-derived amphoteric surfactant (a cleansing agent); mild; safe,surfactant,,0
+392,cera alba (beeswax),90,Low,1.0,Natural beeswax; emollient/structurant; safe,emollient,,0
+393,diheptyl succinate,89,Low,1.0,Plant-based moisturizer; safe,moisturizer,,0
+394,c13-15 alkane,89,Low,1.0,Plant-derived emollient; silicone alternative; safe,emollient,,0
+395,coccinia indica fruit extract,89,Low,1.0,Plant-derived emollient/extract; safe at cosmetic levels,emollient,,0
+397,ppg-5-ceteth-20,89,Low,1.0,Emulsifier/solubilizer; safe at cosmetic levels,emulsifier,,0
+398,aluminum powder (ci 77000),89,Low,1.0,Approved colorant; safe,colorant,,0
+399,cetyl palmitate,88,Low,1.0,Wax ester emollient; safe,emollient,,0
+400,salix alba (willow) bark extract,88,Low,1.0,Plant-derived emollient/extract; safe at cosmetic levels,emollient,,0

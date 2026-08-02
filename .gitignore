@@ -1,4 +1,4 @@
 .DS_Store
 .ipynb_checkpoints/
-data/raw/
-data/risk_scoring/product_ingredient_long.csv
+data/raw/reviews_*.csv
+data/processed/reviews_cleaned.csv
